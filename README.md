@@ -1,72 +1,244 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+# Hi there, I'm Kartik Singh 👋
 
-###
+<h3 align="center">
+  Computer Science Engineering Student • Full-Stack Developer • Problem Solver
+</h3>
 
-<p align="left">Hello World!!</p>
+<p align="center">
+  Passionate about building impactful software, exploring modern web technologies, and continuously learning through real-world projects.
+</p>
 
-###
+---
 
-###
-👋 About Me
+## 🚀 About Me
 
-Hi, I’m **Kartik Singh**, a Computer Science student who enjoys building things for the web and learning how modern technologies work behind the scenes.  
-I’m currently exploring **frontend development and aiml** with JavaScript, React, and python while strengthening my core programming fundamentals. <br>
+I'm a Computer Science Engineering student who enjoys turning ideas into practical applications.
 
-###
+My interests span across **Full-Stack Development**, **Artificial Intelligence**, **Cloud Technologies**, and **Problem Solving**. I enjoy working on projects that combine clean UI, scalable backend architecture, and meaningful user experiences.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+Currently, I'm focused on:
 
-###
+- 🌱 Expanding my Full-Stack Development skills
+- 💻 Solving Data Structures & Algorithms problems
+- 🤖 Exploring AI-powered applications
+- ☁️ Learning modern cloud and deployment technologies
+- 🚀 Building projects that solve real-world problems
+
+---
+
+## 🌐 Portfolio
+
+🔗 **Portfolio Website**
+
+**https://kartiksinghportfolio.vercel.app/**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman,linux" />
+</p>
+
+---
+
+# 📚 What I'm Learning
+
+- Full Stack Development
+- REST APIs
+- MongoDB & Express
+- React Ecosystem
+- Artificial Intelligence
+- Cloud Deployment
+- Data Structures & Algorithms
+
+---
+
+# 💼 Featured Projects
+
+> Replace these placeholders with your best repositories.
+
+## 🚀 Project 1
+
+**Project Name**
+
+Short description of what the project does, technologies used, and the problem it solves.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+
+🔗 Repository
+
+---
+
+## 🚀 Project 2
+
+**Project Name**
+
+Short description.
+
+**Tech Stack**
+
+- React
+- Node.js
+- MongoDB
+
+🔗 Repository
+
+---
+
+## 🚀 Project 3
+
+**Project Name**
+
+Short description.
+
+**Tech Stack**
+
+- Python
+- AI/ML
+
+🔗 Repository
+
+---
+
+# 📈 Coding Profiles
+
+<p align="left">
+
+<a href="https://github.com/Kartikk13">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/kartiikk13">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartikk13&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk13&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kartikk13&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kartikk13&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikk13&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p>
+
+<a href="https://kartiksinghportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kartik-singh-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Kartikk13">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/kartiikk13">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Interests
+
+- Full-Stack Development
+- Artificial Intelligence
+- Open Source
+- Web Technologies
+- Cloud Computing
+- Competitive Programming
+- Problem Solving
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartikk13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kartikk13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+### Thanks for visiting!
+
+If you like my work, consider ⭐ starring my repositories and connecting with me.
+
+![](https://komarev.com/ghpvc/?username=Kartikk13&style=for-the-badge)
+
 </div>
-
-###
-
-I believe in learning by building — small projects, consistent practice, and improving step by step.  
-Always curious, always learning. <br>
-
-###
-
-<div align="left">
-    <a href="https://www.linkedin.com/in/kartik-singh13" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-           width="52"
-           height="40"
-           alt="linkedin logo" />
-    </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kartikk13.Kartikk13&"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Thanks%20for%20visiting&fontSize=50&fontColor=F4A261&fontAlign=50&fontAlignY=35&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
-
-###
